@@ -25,6 +25,6 @@ Requisitos:<br><br>
 Dica:<br>
 Você deve utilizar o recurso de herança para evitar repetição de código entre as classes Aluno e Professor, já que ambas são tipos de Pessoa.<br>
 
-Resolução - Saído do console:
+Resolução - Saída do console:
 
 ![image](https://github.com/user-attachments/assets/1a3c0d88-b89d-4773-8d84-3dda9891dcf3)
